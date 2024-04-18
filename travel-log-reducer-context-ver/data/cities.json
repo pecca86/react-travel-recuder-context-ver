@@ -1,0 +1,616 @@
+{
+  "cities": [
+    {
+      "id": "3241",
+      "cityName": "Hamburg",
+      "country": "Germany",
+      "date": "2022-08-18",
+      "notes": "Roadtripping from Finland to Amsterdam, staying the night in Hamburg.",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "53.5376845174934",
+        "lng": "10.030517578125002"
+      }
+    },
+    {
+      "id": "f722",
+      "cityName": "Utrecht",
+      "country": "Netherlands (Kingdom of the)",
+      "date": "2022-09-01",
+      "notes": "Mijn werkplaats. Leuke borrels met mijne mooie collegas!",
+      "emoji": "🇳🇱",
+      "position": {
+        "lat": "52.06966783061516",
+        "lng": "5.149841308593751"
+      }
+    },
+    {
+      "id": "9316",
+      "cityName": "The Hague",
+      "country": "Netherlands (Kingdom of the)",
+      "date": "",
+      "notes": "We gaan met de train naar den Haag. ",
+      "emoji": "🇳🇱",
+      "position": {
+        "lat": "52.0772833642539",
+        "lng": "4.308700561523438"
+      }
+    },
+    {
+      "id": "15a3",
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "date": "2022-09-01",
+      "notes": "Moved here in Sept. 2022!",
+      "emoji": "🇳🇱",
+      "position": {
+        "lat": "52.33229791703526",
+        "lng": "4.842224121093751"
+      }
+    },
+    {
+      "id": "0eaa",
+      "cityName": "Rotterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "date": "2023-01-31",
+      "notes": "Visited the Market, drank some nice beer, ate some good food and travelled by the end of the day back home with the train :)",
+      "emoji": "🇳🇱",
+      "position": {
+        "lat": "51.907622058657815",
+        "lng": "4.468688964843751"
+      }
+    },
+    {
+      "id": "2207",
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "date": "2017-11-01",
+      "notes": "Honeymoon 💍",
+      "emoji": "🇿🇦",
+      "position": {
+        "lat": "-33.96867545030637",
+        "lng": "18.396606445312504"
+      }
+    },
+    {
+      "id": "db8a",
+      "cityName": "Port Elizabeth",
+      "country": "South Africa",
+      "date": "2022-11-09",
+      "notes": "Honeymoon 💍",
+      "emoji": "🇿🇦",
+      "position": {
+        "lat": "-33.98304928947693",
+        "lng": "25.584411621093754"
+      }
+    },
+    {
+      "id": "e37f",
+      "cityName": "Copenhagen",
+      "country": "Denmark",
+      "date": "2010-02-18",
+      "notes": "Ik gaat met het vleigtuig naar Kopenhavn. Sikkerligt!",
+      "emoji": "🇩🇰",
+      "position": {
+        "lat": "55.66076775393268",
+        "lng": "12.562866210937502"
+      }
+    },
+    {
+      "id": "0ad6",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "date": "2010-02-18",
+      "notes": "Visited Janina",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "52.49106761548088",
+        "lng": "13.381347656250002"
+      }
+    },
+    {
+      "id": "fca2",
+      "cityName": "Munich",
+      "country": "Germany",
+      "date": "2015-01-18",
+      "notes": "Flew here, and took a taxi to the alps.",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "48.13395218396935",
+        "lng": "11.582336425781252"
+      }
+    },
+    {
+      "id": "766e",
+      "cityName": "Huddinge",
+      "country": "Sweden",
+      "date": "1990-01-18",
+      "notes": "Visited my cousins.",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "59.236624646852114",
+        "lng": "18.050537109375004"
+      }
+    },
+    {
+      "id": "6e89",
+      "cityName": "Stockholm",
+      "country": "Sweden",
+      "date": "1990-01-01",
+      "notes": "Ferry trip.",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "59.324946976322316",
+        "lng": "18.059463500976566"
+      }
+    },
+    {
+      "id": "79d7",
+      "cityName": "Malmo",
+      "country": "Sweden",
+      "date": "2013-01-18",
+      "notes": "Cissi & Jonas",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "55.59714350845322",
+        "lng": "12.998199462890627"
+      }
+    },
+    {
+      "id": "aa57",
+      "cityName": "Oslo",
+      "country": "Norway",
+      "date": "1998-01-18",
+      "notes": "Skolresa.",
+      "emoji": "🇳🇴",
+      "position": {
+        "lat": "59.89411088947451",
+        "lng": "10.733642578125002"
+      }
+    },
+    {
+      "id": "a81e",
+      "cityName": "Trondheim",
+      "country": "Norway",
+      "date": "1998-01-01",
+      "notes": "Skolresa",
+      "emoji": "🇳🇴",
+      "position": {
+        "lat": "63.417035600986445",
+        "lng": "10.368347167968752"
+      }
+    },
+    {
+      "id": "e624",
+      "cityName": "Krakow",
+      "country": "Poland",
+      "date": "2015-01-01",
+      "notes": "Ski trip with Janina",
+      "emoji": "🇵🇱",
+      "position": {
+        "lat": "50.07996263480288",
+        "lng": "19.9237060546875"
+      }
+    },
+    {
+      "id": "4009",
+      "cityName": "Zakopane",
+      "country": "Poland",
+      "date": "2015-01-01",
+      "notes": "Ski trip with Janina\n",
+      "emoji": "🇵🇱",
+      "position": {
+        "lat": "49.29150611686456",
+        "lng": "19.966278076171875"
+      }
+    },
+    {
+      "id": "2ea2",
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "date": "2015-10-01",
+      "notes": "Janina, Lindi, Krisu",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "41.36300179329258",
+        "lng": "2.1917724609375004"
+      }
+    },
+    {
+      "id": "5da0",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "date": "2023-09-09",
+      "notes": "Padel med Janina",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "38.7119212075305",
+        "lng": "-9.135475158691408"
+      }
+    },
+    {
+      "id": "b417",
+      "cityName": "San Bartolome de Tirajana",
+      "country": "Spain",
+      "date": "2007-01-01",
+      "notes": "Supar resa",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "27.946540415645167",
+        "lng": "-15.570373535156252"
+      }
+    },
+    {
+      "id": "f9b3",
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "date": "2013-01-01",
+      "notes": "Med Janina",
+      "emoji": "🇺🇸",
+      "position": {
+        "lat": "40.52120597416304",
+        "lng": "-74.19067382812501"
+      }
+    },
+    {
+      "id": "a581",
+      "cityName": "Reykjavik",
+      "country": "Iceland",
+      "date": "2011-01-01",
+      "notes": "Med Janina.",
+      "emoji": "🇮🇸",
+      "position": {
+        "lat": "64.13830826807397",
+        "lng": "-21.907424926757816"
+      }
+    },
+    {
+      "id": "ce0a",
+      "cityName": "Luxembourg",
+      "country": "Luxembourg",
+      "date": "2022-01-01",
+      "notes": "Magnus, Emilia & Familj",
+      "emoji": "🇱🇺",
+      "position": {
+        "lat": "49.60558393008017",
+        "lng": "6.132431030273438"
+      }
+    },
+    {
+      "id": "e3b9",
+      "cityName": "Reims",
+      "country": "France",
+      "date": "2023-04-04",
+      "notes": "Janina & Siri",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "49.256731526111444",
+        "lng": "4.029579162597657"
+      }
+    },
+    {
+      "id": "1a2d",
+      "cityName": "Epernay",
+      "country": "France",
+      "date": "2023-04-04",
+      "notes": "Jania, Siri & 🍾",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "49.04017633860234",
+        "lng": "3.950614929199219"
+      }
+    },
+    {
+      "id": "bd20",
+      "cityName": "Sydney",
+      "country": "Australia",
+      "date": "2019-12-30",
+      "notes": "Janina New Year",
+      "emoji": "🇦🇺",
+      "position": {
+        "lat": "-33.82723959147442",
+        "lng": "151.28173828125003"
+      }
+    },
+    {
+      "id": "24bf",
+      "cityName": "Gold Coast",
+      "country": "Australia",
+      "date": "2020-01-01",
+      "notes": "Janina New Year",
+      "emoji": "🇦🇺",
+      "position": {
+        "lat": "-27.92963256688204",
+        "lng": "153.38012695312503"
+      }
+    },
+    {
+      "id": "1fbe",
+      "cityName": "Brisbane",
+      "country": "Australia",
+      "date": "2020-01-02",
+      "notes": "Janina New Year",
+      "emoji": "🇦🇺",
+      "position": {
+        "lat": "-27.478427881592175",
+        "lng": "153.00796508789065"
+      }
+    },
+    {
+      "id": "e5db",
+      "cityName": "Tallinn",
+      "country": "Estonia",
+      "date": "2000-01-01",
+      "notes": "Been here on several occasions.",
+      "emoji": "🇪🇪",
+      "position": {
+        "lat": "59.437711217668664",
+        "lng": "24.776916503906254"
+      }
+    },
+    {
+      "id": "e3c1",
+      "cityName": "Parnu",
+      "country": "Estonia",
+      "date": "2021-10-01",
+      "notes": "Trip with Ville, Nette, Nylle, Helena, Petski and Fia + Kids.",
+      "emoji": "🇪🇪",
+      "position": {
+        "lat": "58.379408782326",
+        "lng": "24.500198311170717"
+      }
+    },
+    {
+      "id": "5b50",
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "date": "2013-10-01",
+      "notes": "Visint Erica and stopped by on our trip to Malesya.",
+      "emoji": "🇸🇬",
+      "position": {
+        "lat": "1.2884279776003855",
+        "lng": "103.83041381835938"
+      }
+    },
+    {
+      "id": "0833",
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "date": "2013-01-01",
+      "notes": "Flew back home after Malesya trip",
+      "emoji": "🇲🇾",
+      "position": {
+        "lat": "3.1356577711822857",
+        "lng": "101.65374755859376"
+      }
+    },
+    {
+      "id": "6a65",
+      "cityName": "Kuala Rompin",
+      "country": "Malaysia",
+      "date": "",
+      "notes": "Tioman Island, went diving here.",
+      "emoji": "🇲🇾",
+      "position": {
+        "lat": "2.7963825899960084",
+        "lng": "104.13202285766603"
+      }
+    },
+    {
+      "id": "8197",
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "date": "2013-01-01",
+      "notes": "Stopped here for three days on our Malesya trip.",
+      "emoji": "🇦🇪",
+      "position": {
+        "lat": "24.45286760070942",
+        "lng": "54.20654296875"
+      }
+    },
+    {
+      "id": "b1b7",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2009-01-01",
+      "notes": "Social Distortion gig.",
+      "emoji": "🇬🇧",
+      "position": {
+        "lat": "51.48345728764815",
+        "lng": "-0.12634277343750003"
+      }
+    },
+    {
+      "id": "b4ea",
+      "cityName": "Greater Manchester",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2011-01-01",
+      "notes": "Manchester United - Chelsea",
+      "emoji": "🇬🇧",
+      "position": {
+        "lat": "53.472206772352266",
+        "lng": "-2.3043823242187504"
+      }
+    },
+    {
+      "id": "24e0",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "date": "2016-01-01",
+      "notes": "Janina, Nylle & Helena.",
+      "emoji": "🇮🇪",
+      "position": {
+        "lat": "53.32610563138424",
+        "lng": "-6.256713867187501"
+      }
+    },
+    {
+      "id": "4687",
+      "cityName": "Salzburg",
+      "country": "Austria",
+      "date": "2024-01-02",
+      "notes": "Alp trip with work.",
+      "emoji": "🇦🇹",
+      "position": {
+        "lat": "47.778850260052494",
+        "lng": "13.070983886718752"
+      }
+    },
+    {
+      "id": "6697",
+      "cityName": "Flachau",
+      "country": "Austria",
+      "date": "2024-02-02",
+      "notes": "Skiing with work.",
+      "emoji": "🇦🇹",
+      "position": {
+        "lat": "47.34337857509714",
+        "lng": "13.393278121948244"
+      }
+    },
+    {
+      "id": "eea5",
+      "cityName": "Schladming",
+      "country": "Austria",
+      "date": "2013-01-01",
+      "notes": "Skiing with Janina & the germans.",
+      "emoji": "🇦🇹",
+      "position": {
+        "lat": "47.391548054003906",
+        "lng": "13.686561584472656"
+      }
+    },
+    {
+      "id": "3d1f",
+      "cityName": "Bern",
+      "country": "Switzerland",
+      "date": "2023-06-01",
+      "notes": "Roadtip Janina & Siri.",
+      "emoji": "🇨🇭",
+      "position": {
+        "lat": "46.93941875803108",
+        "lng": "7.455596923828126"
+      }
+    },
+    {
+      "id": "76d3",
+      "cityName": "Brugge",
+      "country": "Belgium",
+      "date": "2024-04-04",
+      "notes": "Easter Janina & Siri.",
+      "emoji": "🇧🇪",
+      "position": {
+        "lat": "51.20214010931967",
+        "lng": "3.2203674316406254"
+      }
+    },
+    {
+      "id": "0e19",
+      "cityName": "Antwerpen",
+      "country": "Belgium",
+      "date": "2023-06-01",
+      "notes": "Visiting Frank.",
+      "emoji": "🇧🇪",
+      "position": {
+        "lat": "51.21248135264442",
+        "lng": "4.382171630859376"
+      }
+    },
+    {
+      "id": "42c7",
+      "cityName": "Brussels",
+      "country": "Belgium",
+      "date": "2023-08-08",
+      "notes": "Roadtrip Janina.",
+      "emoji": "🇧🇪",
+      "position": {
+        "lat": "50.853013574935716",
+        "lng": "4.338226318359376"
+      }
+    },
+    {
+      "id": "105e",
+      "cityName": "Matten",
+      "country": "Switzerland",
+      "date": "2023-06-06",
+      "notes": "Roadtrip Janina & Siri",
+      "emoji": "🇨🇭",
+      "position": {
+        "lat": "46.680679981372144",
+        "lng": "7.860031127929688"
+      }
+    },
+    {
+      "id": "a3c3",
+      "cityName": "Koln",
+      "country": "Germany",
+      "date": "2023-06-06",
+      "notes": "Roadtrip Janina & Siri.",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "50.92563735229039",
+        "lng": "6.940612792968751"
+      }
+    },
+    {
+      "id": "7689",
+      "cityName": "Frankfurt am Main",
+      "country": "Germany",
+      "date": "2020-10-01",
+      "notes": "Visit with Janina & Siri.",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "50.11425625324726",
+        "lng": "8.665466308593752"
+      }
+    },
+    {
+      "id": "ac4e",
+      "cityName": "Heidelberg",
+      "country": "Germany",
+      "date": "2023-06-06",
+      "notes": "Roadtrip Janina & Siri.",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "49.407451308634386",
+        "lng": "8.658599853515627"
+      }
+    },
+    {
+      "id": "4785",
+      "cityName": "Pargas",
+      "country": "Finland",
+      "date": "1986-07-28",
+      "notes": "Born here.",
+      "emoji": "🇫🇮",
+      "position": {
+        "lat": "60.295978824025475",
+        "lng": "22.28988647460938"
+      }
+    },
+    {
+      "id": "42b6",
+      "cityName": "Palma",
+      "country": "Spain",
+      "date": "1991-01-01",
+      "notes": "Palma de Mallorca with Family.",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "39.5651713292861",
+        "lng": "2.6415252685546875"
+      }
+    },
+    {
+      "id": "8276",
+      "cityName": "Fira",
+      "country": "Greece",
+      "date": "2021-01-01",
+      "notes": "Santorini.",
+      "emoji": "🇬🇷",
+      "position": {
+        "lat": "36.41203105726382",
+        "lng": "25.43231964111328"
+      }
+    }
+  ]
+}

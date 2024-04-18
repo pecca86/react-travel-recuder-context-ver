@@ -1,0 +1,4 @@
+.country_list {
+    flex-direction: column;
+    list-style: none;
+}

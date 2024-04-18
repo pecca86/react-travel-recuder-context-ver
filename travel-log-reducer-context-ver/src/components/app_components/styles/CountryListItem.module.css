@@ -1,0 +1,18 @@
+.country_list_item {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #f68b8b;
+    border-radius: 0.5rem;
+    background-color: #333333;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    gap: 1rem;
+}
+
+.remove_button {
+    margin-left: auto;
+}
+
+.remove_button:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+
+.sidebar_footer {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.6em;
+    border-bottom: 5px solid #333;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

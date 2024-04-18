@@ -1,0 +1,11 @@
+
+.sidebar {
+    height: 100%;
+    width: 40%;
+    background-color: #f68b8b;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    /* apply border radius only to left side */
+    border-radius: 10px 0px 0px 10px;
+}

@@ -1,0 +1,27 @@
+.about_container {
+    background: url('https://www.bcd-urbex.com/wp-content/uploads/2014/01/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    border: 10px solid white;
+    /* add some glow to the border */
+    box-shadow: 0 0 10px white;
+}
+
+.about_heading {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+.about_text {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    font-size: 1.5rem;
+}

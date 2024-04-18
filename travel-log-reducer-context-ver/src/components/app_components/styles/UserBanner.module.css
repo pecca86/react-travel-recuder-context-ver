@@ -1,0 +1,31 @@
+.user_banner {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: #000000;
+    border-bottom: 1px solid #ccc;
+    gap: 2rem
+}
+
+.username {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 1rem;
+}
+
+.logout_btn {
+    background-color: #f1f1f1;
+    border: none;
+    color: #333;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: 1rem;
+    border-radius: 5px;
+}
+
+.logout_btn:hover {
+    color: #000000;
+    background-color: #eeffd0;
+}
