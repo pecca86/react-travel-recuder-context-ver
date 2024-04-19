@@ -1,7 +1,7 @@
 
 .sidebar {
-    height: 100%;
-    width: 40%;
+    height: 85vh;
+    width: 30%;
     background-color: #f68b8b;
     overflow-x: hidden;
     transition: 0.5s;

@@ -7,7 +7,7 @@ import { Outlet } from 'react-router-dom';
 const SideBar = () => {
     return (
         <div className={styles.sidebar}>
-            <h1>Start exploring ✈️</h1>
+            <h3>Start exploring ✈️</h3>
             <UserBanner />
             <AppNav />
             <Outlet />
