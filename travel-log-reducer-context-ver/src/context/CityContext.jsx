@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useReducer } from "react";
+import { createContext, useContext, useEffect, useReducer, useCallback } from "react";
 import { reducer } from "../reducer/reducer";
 
 const CityContext = createContext();
@@ -24,11 +24,11 @@ const CityProvider = ({ children }) => {
         fetchCities()
     }, [])
 
-    const getCurrentCity = async (cityId) => {
+    const getCurrentCity = useCallback(async (cityId) => {
         dispatch({ type: "LOADING" })
         const found = cities.find(city => city.id === cityId)
         dispatch({ type: "CURRENT_CITY", payload: found })
-    }
+    }, [currentCity.id]);
 
     const addCity = async (city) => {
         const response = await fetch('http://localhost:8000/cities', {
@@ -40,7 +40,7 @@ const CityProvider = ({ children }) => {
         })
         const data = await response.json()
         dispatch({ type: "CITY_CREATED", payload: data })
-    }
+    };
 
     const deleteCity = async (cityId) => {
         const response = await fetch(`http://localhost:8000/cities/${cityId}`, {
@@ -48,7 +48,7 @@ const CityProvider = ({ children }) => {
         })
         const data = await response.json()
         dispatch({ type: "CITY_DELETED", payload: cityId })
-    }
+    };
 
     return (
         <CityContext.Provider value={{

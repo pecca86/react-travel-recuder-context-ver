@@ -17,7 +17,7 @@ const City = () => {
 
     useEffect(() => {
         getCurrentCity(cityId);
-    }, [cityId]);
+    }, [cityId, getCurrentCity]);
 
     const handleBack = (e) => {
         e.preventDefault();
